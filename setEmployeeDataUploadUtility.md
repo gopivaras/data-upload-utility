@@ -4,7 +4,7 @@
 
 * **Version History:**
 
-	TASS v49.1 - Added 2 new parameters `indig_status`, `main_activity`
+	TASS v53 - Added 2 new parameters `indig_status`, `main_activity`
 	
 	TASS v49.1 - Validations changed for `add1_text`, `city_text`, `state_text`, `post_code`, `country_text`, and `country_code` fields based on Single Touch Payroll
 
